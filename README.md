@@ -1,35 +1,5 @@
 # 📊 Customer Churn Prediction
 
-## 📑 Table of Contents
-
-- 📌 Project Overview
-- 🎯 Objective
-- 📂 Dataset
-- 🛠️ Technologies Used
-  - Programming Language
-  - Machine Learning Libraries
-  - Data Visualization
-- 🧹 Data Preprocessing
-- 📊 Exploratory Data Analysis
-- 🤖 Machine Learning Models
-  - Logistic Regression
-  - Random Forest
-- 🏆 Final Model
-- 📈 Results
-- 🚀 Features
-- 💼 Applications
-- 🔮 Future Improvements
-- 📁 Project Structure
-- ⚙️ Installation
-  - Clone Repository
-  - Create Virtual Environment
-  - Install Dependencies
-- ▶️ Running the Project
-- 👨‍💻 Author
-- 📜 License
-
----
-
 # 📌 Project Overview
 
 This project predicts whether a telecom customer is likely to leave (churn) or stay with the company using Machine Learning algorithms.
