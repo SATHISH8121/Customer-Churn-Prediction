@@ -171,13 +171,3 @@ python app.py
 ```
 
 ---
-
-# 👨‍💻 Author
-
-**Sathish Reddy**
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
