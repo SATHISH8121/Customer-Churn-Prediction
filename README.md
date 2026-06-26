@@ -15,6 +15,32 @@
 ![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)
 
 ---
+## 📌 Project Information
+
+| **Property** | **Value** |
+|--------------|-----------|
+| **Project Type** | Machine Learning |
+| **Domain** | Customer Analytics |
+| **Problem Type** | Binary Classification |
+| **Dataset** | Telco Customer Churn Dataset |
+| **Dataset Size** | 7,043 Records |
+| **Features** | 21 Features |
+| **Programming Language** | Python 3.11 |
+| **Framework** | Flask |
+| **Machine Learning Algorithms** | Logistic Regression, Random Forest |
+| **Final Model** | Logistic Regression |
+| **Model Accuracy** | **81.48%** |
+| **Data Processing** | Pandas, NumPy |
+| **Visualization** | Matplotlib, Seaborn |
+| **Model Serialization** | Pickle |
+| **Database** | SQLite *(Optional)* |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **IDE** | Visual Studio Code |
+| **Version Control** | Git & GitHub |
+| **Operating System** | Windows / Linux |
+| **Deployment Ready** | Yes |
+| **License** | MIT License |
+---
 # 📌 Project Overview
 
 This project predicts whether a telecom customer is likely to leave (churn) or stay with the company using Machine Learning algorithms.
