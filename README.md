@@ -1,4 +1,5 @@
 # 📊 Customer Churn Prediction
+A web-based Customer Churn Prediction System developed using Python, Flask, HTML, CSS, JavaScript, Scikit-learn, and SQLite. The application analyzes customer data, predicts churn using Machine Learning models, visualizes insights, and helps businesses identify at-risk customers for proactive retention strategies.
 ---
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
